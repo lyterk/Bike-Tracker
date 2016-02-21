@@ -1,4 +1,4 @@
-ackage us.bikelane.tracker.dao;
+package com.lyterk.biketracker.dao;
 
 public class FetchedLocation {
 
